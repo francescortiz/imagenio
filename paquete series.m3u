@@ -1,0 +1,6 @@
+#-PAQUETE SERIES-  (incluye Movistar Series)
+
+#EXTINF:-1, [011] Canal+ Series
+rtp://@239.0.5.4:8208
+#EXTINF:-1, [012] Canal+ Series Xtra
+rtp://@239.0.3.20:8208
